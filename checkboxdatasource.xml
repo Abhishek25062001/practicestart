@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Products>
+	<Product id ="101" name="Television"></Product>
+	<Product id ="102" name="Microwave"></Product>
+	<Product id ="103" name="Washing Machine"></Product>
+	<Product id ="104" name="Refrigerator"></Product>
+	<Product id ="105" name="Home Theatre"></Product>
+	<Product id ="106" name="Mixer Grinder"></Product>
+	<Product id ="107" name="Blueray Player"></Product>
+	<Product id ="108" name="Split A/C"></Product>
+	<Product id ="109" name="Air Cooler"></Product>
+</Products>

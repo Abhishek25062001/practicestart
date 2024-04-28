@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+	<Products>
+		<Product>
+			<Id>101</Id>
+			<Name>Television</Name>
+		</Product>
+		<Product>
+			<Id>102</Id>
+			<Name>Microwave</Name>
+		</Product>
+		<Product>
+			<Id>103</Id>
+			<Name>Washing Machine</Name>
+		</Product>
+		<Product>
+			<Id>104</Id>
+			<Name>Refrigerator</Name>
+		</Product>
+		<Product>
+			<Id>105</Id>
+			<Name>Home Theatre</Name>
+		</Product>
+		<Product>
+			<Id>106</Id>
+			<Name>Mixer Grinder</Name>
+		</Product>
+		<Product>
+			<Id>107</Id>
+			<Name>Blueray Player</Name>
+		</Product>
+		<Product>
+			<Id>108</Id>
+			<Name>Split A/C</Name>
+		</Product>
+		<Product>
+			<Id>109</Id>
+			<Name>Air Cooler</Name>
+		</Product>
+		<Product>
+			<Id>110</Id>
+			<Name>Window A/C</Name>
+		</Product>
+	</Products>
+
